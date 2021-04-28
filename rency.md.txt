@@ -1,0 +1,55 @@
+                                             HOW TO LEARN JAVA
+                 
+                All one requires to learn something is willingness to learn.There is no age to learn.This article 
+ is all about learning java.
+                 
+
+                First of all,let us know what actually java is. Java is an object-oriented programming language 
+ that produces software for multiple platforms. When a programmer writes a Java application, the compiled code 
+(known as bytecode) runs on most operating systems (OS), including Windows, Linux and Mac OS. Java derives much
+ of its syntax from the C and C++ programming languages. 
+
+                Secondly,what one should know about self for learning java.You require certain ability in order
+to learn java.These qualities includes (a)willingness to learn java  (b)your ability to write for hours (c)your
+dedication to learn simplest of thing with great attention (d)your interest in technological field,and so on.
+
+                  Thirdly,it is no big deal to learn java.It is as simple as learning other thing in your life.
+Their are multiple ways to learn learn java like one can beginning to learn from class VI onwards opting computer
+as one of the subject or one may start to learn even before by having some private tutor having complete knowledge
+of java,the same thing can be done later on even in life when one want to learn java.Beside these,one may opt for
+online mode to learn lava.In brief,
+
+>Brush up on the basics- Don’t get lured by the idea of learning Java on your own. It may be a deep 
+understanding of Core Java & learn to create reusable codes. considered as an easy-to-understand language,
+ but you need to get professional assistance & training in Java Bootcamp to build a solid foundation in this
+ language. 
+
+>Practice Code daily- To be the best Java programmer, you need to acquire technical competency as theoretical
+ knowledge alone won’t sail you through. It is crucial to know Java’s real-world implementations, syntax, 
+inheritance, classes, object, & abstraction.
+
+> Write & deploy Java codes daily to gain expertise.
+
+>Ignore the Myths about Java- Since Java is a relatively old programming language, many people believe Java is no 
+longer worth learning. However, it is not true; a quick search on the top programming languages reveals that Java 
+is still the most popular language in the programming world. Learning a coding language like Java & becoming a Java 
+Developer will increase your career prospects and provide long-term benefits.
+
+>Connect with the online developers’ community & read about Java- Apart from joining a Java Bootcamp, you should 
+focus on enriching your Java knowledge through online sources. Search for coding websites, subscribe to the
+ newsletters for daily updates in technology and listen to developers’ coding podcasts. It will help you cope with 
+the latest market trends.
+
+>Career-Oriented Java Training- Through Job-focused Java training, you can acquire the necessary skills and 
+experience in core and advanced level Java. Thereby, you can secure several job options like Java Developer, 
+Solution Architect, Scrum Master, DevOps Engineer, Business Analyst, etc. 
+
+                     By following these few steps and tips you can become a champ of java.Here,are few website 
+you should refer to learn java in best possible way with minimal of your spending or no spending:
+>codecademy/java.com
+>javapoint.com
+>simplilearn.com
+>sanfoundry.com/java
+
+Refer to https://www.tutorialcup.com/java for more information.            
+
