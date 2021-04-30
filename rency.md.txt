@@ -46,10 +46,8 @@ Solution Architect, Scrum Master, DevOps Engineer, Business Analyst, etc.
 
                      By following these few steps and tips you can become a champ of java.Here,are few website 
 you should refer to learn java in best possible way with minimal of your spending or no spending:
->codecademy/java.com
->javapoint.com
->simplilearn.com
->sanfoundry.com/java
+>https://learning.codingninjas.com/.md
+Java Course from Scratch - No Coding Experience Required
 
-Refer to https://www.tutorialcup.com/java for more information.            
+Refer to https://www.tutorialcup.com/java for more information.md            
 
